@@ -1,5 +1,5 @@
 # Setup
-Use the userHasBook.sql file to create the relation table userHasBook.
+Use the userHasBook.sql file to create the relation table userHasBook. Is now also included in the database setup file.
 
 # Explanation
 I focused on Javascript and backend functionality and created an extension and a Widget for that.
