@@ -36,4 +36,7 @@ http://localhost/library
 Go to /books
 3. Add and remove books with + and - button
 
+The extension/Widget get's called in the view file
+library/protected/views/user/book
+
 ## Thank you
