@@ -29,4 +29,11 @@ Should front end development not be a strong point for you do not linger on it, 
 5.	Plan all your steps considering that this project might be expanded upon in the future, write your css and your php accordingly and keep it flexible.
 
 
+# Usage
+1. Open
+http://localhost/library
+2. Login with admin/admin
+Go to /books
+3. Add and remove books with + and - button
+
 ## Thank you
